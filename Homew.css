@@ -1,0 +1,228 @@
+*{margin: 0;}
+header {
+    border-bottom: 1.5px solid #55a79a;
+}
+.App1 {
+    font: Rambla   34pt black;
+    font-weight: 700;
+    margin-left: 5vw;
+    float: left;
+}
+.Strap1 {
+    font: Rambla 36pt;
+    font-weight: 400;
+    color: #55a79a;
+    float: left;
+}
+.Dot {
+    font: rambla 34pt black;
+    font-weight: 700;
+}
+li {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+    font-weight: 700;
+	text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration-style: none;
+}
+.App1, .Strap1, .Dot  
+{
+	font-size:34px;
+	font:rambla;
+}
+.Strap1, .Dot {
+    margin-left:0;
+}
+header .fa-home
+{
+    margin-left: 30vw;
+}
+.p, .f, .s, .e, .m {
+    font-size: 10pt;
+}
+.kvadratas {
+    width: 30vw;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(209, 208, 208 );
+    border-radius: 2px;
+    margin: 2vw;
+    margin-left: 30vw;
+    box-shadow: 4px 8px 20px rgba(0, 0, 0, 0.3);
+    text-align: left;
+    padding-bottom: 20px;
+}
+.login {
+font-size: 22pt;
+color: black;
+font-weight: 700;
+border-bottom: 3px solid #979797;
+margin-top: 3%;
+margin-left: 5%;
+
+
+}
+.not {   
+color:lightslategrey;
+}
+.sign {
+color: #55a79a;
+
+}
+.two {
+    margin-top: 5%;
+    margin-bottom: 15px;
+    margin-left: 5%;
+  
+}
+.sl
+{color: #292B2C; 
+}
+
+
+[placeholder] 
+{ 
+margin-left: 5%;
+padding: 5px;
+font-size: 12pt;
+width: 80%; }
+
+.button {
+    background-color: #55a79a; 
+    border: none;
+    color: white;
+    padding: 6px 8px;
+    margin-left: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.button, .three {
+    display: inline-block;
+    
+}
+
+footer {
+    width: 100%;
+    padding-bottom: 20px;
+    background-color: #55a79a;
+    
+}
+.staciakampis { margin-left: 9vw;}
+
+.AW {
+    margin-top: 50px;
+    font-size: 22pt;
+    font-weight: 700;
+    display: inline-block;
+   
+}
+.text-shadow {
+    color: white;
+    text-shadow: 4px 8px 20px rgba(253, 253, 253, 0.3);
+}
+.features {
+    color: #33635C;      
+}
+.AW2
+{
+    font-size: 12pt;
+    display: inline-block;
+    font-weight: 700;
+    margin-bottom: 50px; 
+ }
+.uptime, .free, .fully, .bug {
+color: rgb(250, 250, 250);
+ }
+ .slsh {
+     color: #33635C;
+ }
+ .button2 {
+    background-color: #478a80; 
+    height: 50px;
+    color: white;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 40vw;
+    margin-right: 90px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 30px;
+    border:none;
+    float:right;
+    
+
+}
+.row {
+    width: 100%;
+    background-color: #292B2C;
+    margin: 0;
+    float: left; 
+    padding: 20px;
+    padding-top: 50px;
+
+  
+}
+ .vienas, .du, .trys {
+    width: 30%;
+    float: left;    
+} 
+
+.block {
+    color: rgb(214, 213, 213);
+    font-size: 12pt;
+}
+
+
+footer input[text=fa-home] {
+    color: rgb(214, 213, 213); }
+
+.hd {
+    color: white;
+    font-size: 16pt;
+    font-weight: 700;
+    display: inline;
+    
+ }
+
+
+.go {
+    background-color: #55a79a; 
+    border: none;
+    color: white;
+    padding: 4px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius right: ;: 2px;
+    
+ }
+
+footer input[text=email] {
+width:70%;
+font-size:12pt;
+margin-left:-8px;
+padding: 2px;
+}  
+.go, .email2 {
+display: inline-block;
+}
+.subscribe {
+    margin-left: -19px;
+    margin-top: 8px;
+}
